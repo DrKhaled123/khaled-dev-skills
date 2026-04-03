@@ -750,3 +750,72 @@ USE MASTER SYSTEM
 **Repository:** https://github.com/DrKhaled123/khaled-dev-skills
 
 🎯 **READY FOR POWER MERGED CODING!**
+
+---
+
+## 🚀 VERSION 2 ADDITIONS (v5.1)
+
+### Additional 15 Skills Merged (No CI/CD):
+
+#### Productivity Tools (3):
+- **changelog-generator** - Auto-generate changelogs from git
+- **meeting-insights-analyzer** - Analyze meeting transcripts
+- **slack-gif-creator** - Create Slack-optimized GIFs
+
+#### Marketing Tools (2):
+- **competitive-ads-extractor** - Analyze competitor ads
+- **twitter-algorithm-optimizer** - Optimize tweets for reach
+
+#### Creative Tools (4):
+- **brand-guidelines** - Create brand guidelines
+- **canvas-design** - Visual design assistant
+- **image-enhancer** - Image quality improvement
+- **artifacts-builder** - Multi-component builds
+
+#### Business Tools (3):
+- **invoice-organizer** - Invoice management
+- **tailored-resume-generator** - Job-specific resumes
+- **developer-growth-analysis** - Track skill growth
+
+#### Utility Tools (3):
+- **domain-name-brainstormer** - Generate domain ideas
+- **raffle-winner-picker** - Fair random selection
+- **video-downloader** - YouTube video downloads
+
+**Total Skills:** 9 (v1) + 15 (v2) = 24
+
+**New Aliases:**
+- kimi-changelog-gen
+- kimi-meeting-analyze
+- kimi-slack-gif
+- kimi-ads-extract
+- kimi-twitter-optimize
+- kimi-brand-guide
+- kimi-canvas-design
+- kimi-image-enhance
+- kimi-artifacts
+- kimi-invoice-organize
+- kimi-resume-tailor
+- kimi-dev-growth
+- kimi-domain-brainstorm
+- kimi-raffle-pick
+- kimi-video-download
+
+**Quick Commands:**
+- kimi-v2-help - Show v2 skills
+- kimi-all-awesome - Show all 24 skills
+
+---
+
+## 📊 UPDATED STATISTICS (v5.1)
+
+- Total Aliases: 165+ (was 150+)
+- Core Skills: 5 Z.AI + 24 Awesome = 29
+- Workflow Guides: 10
+- Python Scripts: 25+
+- Categories: 9 (Core, Git, GitHub, Docs, Dev, Productivity, Marketing, Creative, Business, Utility)
+
+---
+
+Updated: 2026-04-03
+Version: 5.1
