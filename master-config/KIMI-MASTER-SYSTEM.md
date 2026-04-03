@@ -819,3 +819,78 @@ USE MASTER SYSTEM
 
 Updated: 2026-04-03
 Version: 5.1
+
+---
+
+## 🚀 VERSION 5.2 ADDITIONS
+
+### Project-Based Learning Skills (NEW!)
+
+Added 200+ programming projects from practical-tutorials/project-based-learning:
+
+#### Project Categories (8):
+1. **Python Projects** (40+) - Web, ML, Automation, Games
+2. **JavaScript Projects** (50+) - React, Node, Vue, Angular, Vanilla
+3. **Go Projects** (15+) - Web, Blockchain, Systems
+4. **Rust Projects** (15+) - OS, Emulators, WASM
+5. **C/C++ Projects** (30+) - Compilers, OS, Games, Tools
+6. **Web Projects** (25+) - MERN, MEAN, MEVN, Full-Stack
+7. **ML Projects** (35+) - Deep Learning, NLP, Computer Vision
+8. **Mobile Projects** (45+) - React Native, Flutter, iOS, Android
+
+#### New Aliases (18):
+- `kimi-python-projects` - Show Python projects
+- `kimi-js-projects` - Show JavaScript projects
+- `kimi-go-projects` - Show Go projects
+- `kimi-rust-projects` - Show Rust projects
+- `kimi-cpp-projects` - Show C/C++ projects
+- `kimi-web-projects` - Show full-stack projects
+- `kimi-ml-projects` - Show ML/AI projects
+- `kimi-mobile-projects` - Show mobile projects
+- `kimi-project-beginner` - Show beginner projects
+- `kimi-project-intermediate` - Show intermediate projects
+- `kimi-project-advanced` - Show advanced projects
+- `kimi-project-expert` - Show expert projects
+- `kimi-project-help` - Show all project categories
+- `kimi-project-stats` - Show project statistics
+
+#### Learning Paths:
+1. **Web Developer** (16 weeks) - JS → React/Node → Full-Stack
+2. **Python Developer** (16 weeks) - Python → Flask/Django → ML
+3. **Systems Programmer** (20 weeks) - C/C++ → OS → Compilers
+4. **Mobile Developer** (16 weeks) - React Native/Flutter → Production
+5. **ML Engineer** (20 weeks) - Python → ML → Deep Learning
+
+#### Statistics:
+- Total Projects: 200+
+- Programming Languages: 22
+- Beginner Projects: 80+
+- Intermediate Projects: 90+
+- Advanced Projects: 50+
+- Expert Projects: 20+
+
+---
+
+## 📈 UPDATED STATISTICS (v5.2)
+
+                    v5.1           v5.2            CHANGE
+                    ─────          ─────           ──────
+Core Aliases:       90+            90+             ─
+Git Aliases:        20+            20+             ─
+GitHub Aliases:     30+            30+             ─
+Enhanced Extras:    55+            55+             ─
+Project Learning:   0              18              +18 NEW
+Z.AI Tools:         5              5               ─
+Awesome Skills v1:  9              9               ─
+Awesome Skills v2:  15             15              ─
+─────────────────────────────────────────────────────────────────
+TOTAL SKILLS:       29             30              +1 (category)
+TOTAL ALIASES:      ~165           ~183            +18
+WORKFLOW GUIDES:    10             10              ─
+PYTHON SCRIPTS:     40+            40+             ─
+PROJECTS:           0              200+            +200+
+
+---
+
+Updated: 2026-04-03
+Version: 5.2
